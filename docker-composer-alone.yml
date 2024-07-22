@@ -1,25 +1,19 @@
-version: "3.9"
-services: 
-  app:
-    stdin_open: true
-    tty: true
-    build: .
+version: "3.9"  # Puedes ajustar la versión según tus necesidades
+
+services:
+  label-studio:
     image: heartexlabs/label-studio:latest
-    restart: unless-stopped
     ports:
-      - 8080:8080
-    # depends_on:
-    #   - db
+      - "8080:8080"  # Mapea el puerto 8080 del contenedor al puerto 8080 del host
+
     environment:
       - DJANGO_DB=default
       - POSTGRE_NAME=postgres
       - POSTGRE_USER=postgres
       - POSTGRE_PASSWORD=p0stgr3s_4lf4
       - POSTGRE_PORT=5432
-      - POSTGRE_HOST=host.docker.internal
-      #- LABEL_STUDIO_HOST=${LABEL_STUDIO_HOST:-}
-      - JSON_LOG=1
-      - LOG_LEVEL=DEBUG
-    volumes:
-      - ./mydata:/label-studio/data:rw
-    command: label-studio
+      - POSTGRE_HOST=10.0.0.4
+   
+    stdin_open: true  # Similar a `-it`, mantiene el contenedor abierto para entrada estándar
+    tty: true  # Similar a `-it`, asigna un pseudo-TTY
+  
