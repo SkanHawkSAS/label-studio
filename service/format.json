@@ -1,0 +1,228 @@
+{'action': 'ANNOTATION_UPDATED', 'annotation': {'id': 8, 'result': [
+            {'id': '1pKDI5yCtL', 'type': 'timeserieslabels', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'instant': False, 'timeserieslabels': ['POOH'
+                    ]
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'viaje'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'rating', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'rating': 5, 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'rating'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'choices', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'choices': ['BCP'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'assembly'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'labels', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'labels': ['TUBING 2 3/8 6,
+                        4 J-55 EUE'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'tuberia'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'choices', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'choices': ['LLave Hidráulica'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'wrench'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'number', 'value': {'end': '2024-06-10 12: 25: 52', 'start': '2024-06-10 01: 43: 51', 'number': 1, 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'assembly_number'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'textarea', 'value': {'end': '2024-06-10 12: 25: 52', 'text': ['dfdsfds'
+                    ], 'start': '2024-06-10 01: 43: 51', 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'objetivo'
+            },
+            {'id': '1pKDI5yCtL', 'type': 'textarea', 'value': {'end': '2024-06-10 12: 25: 52', 'text': ['hjhgjhgj'
+                    ], 'start': '2024-06-10 01: 43: 51', 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'comments'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'timeserieslabels', 'value': {'end': '2024-06-09 15: 11: 06', 'start': '2024-06-09 05: 28: 48', 'instant': False, 'timeserieslabels': ['RIH'
+                    ]
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'viaje'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'rating', 'value': {'end': '2024-06-09 15: 11: 06', 'start': '2024-06-09 05: 28: 48', 'rating': 3, 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'rating'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'choices', 'value': {'end': '2024-06-09 15: 11: 06', 'start': '2024-06-09 05: 28: 48', 'choices': ['ESP'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'assembly'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'labels', 'value': {'end': '2024-06-09 15: 11: 06', 'start': '2024-06-09 05: 28: 48', 'labels': ['TUBING 2 3/8 6,
+                        4 J-55 EUE'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'tuberia'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'choices', 'value': {'end': '2024-06-09 15: 11: 06', 'start': '2024-06-09 05: 28: 48', 'choices': ['LLave Hidráulica'
+                    ], 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'wrench'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'textarea', 'value': {'end': '2024-06-09 15: 11: 06', 'text': ['jhhfhhhhhh'
+                    ], 'start': '2024-06-09 05: 28: 48', 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'objetivo'
+            },
+            {'id': 'KliXPNM8x0', 'type': 'textarea', 'value': {'end': '2024-06-09 15: 11: 06', 'text': ['hhhhhh'
+                    ], 'start': '2024-06-09 05: 28: 48', 'instant': False
+                }, 'origin': 'manual', 'to_name': 'ts', 'from_name': 'comments'
+            }
+        ], 'was_cancelled': False, 'ground_truth': False, 'created_at': '2024-07-23T00: 30: 34.153453Z', 'updated_at': '2024-07-23T18: 54: 22.188021Z', 'draft_created_at': '2024-07-23T00: 29: 54.905788Z', 'lead_time': 1424.1039999999998, 'prediction': {}, 'result_count': 0, 'unique_id': '4eb206ee-0c64-4df7-b2b5-518a790b74b1', 'import_id': None, 'last_action': None, 'task': 65, 'project': 23, 'completed_by': 1, 'updated_by': 1, 'parent_prediction': None, 'parent_annotation': None, 'last_created_by': None
+    }, 'project': {'id': 23, 'task_number': 2, 'finished_task_number': 2, 'total_predictions_number': 1, 'total_annotations_number': 2, 'num_tasks_with_annotations': 2, 'useful_annotation_number': 2, 'ground_truth_number': 0, 'skipped_annotations_number': 0, 'title': 'IndependenceRig36 FRONTERA', 'description': 'Proyecto del rig IndependenceRig36 con el cliente FRONTERA', 'label_config': '<View>\n            <!-- Control tag for región labels -->\n            <Header value="Seleccione una región que describa el inicio y el fin de la actividad a etiquetar"/>\n            <TimeSeriesLabels name="viaje" toName="ts">\n                <Label value="POOH" background="blue"/>\n                <Label value="RIH" background="red"/>\n                <Label value="REP RIH" background="gray"/>\n                <Label value="REP POOH" background="green"/>\n                <Label value="MILLING" background="orange"/>\n                <Label value="WO STRING" background="pink"/>\n                <Label value="DH OPS" background="brown"/>    \n                <Label value="SURF OPS" background="black"/>\n\n            </TimeSeriesLabels>\n        \n        <View>\n        \n        <Rating name="rating" showInline=\'false\' toName="ts" maxRating="5" icon="star" size="medium" perRegion="true" required="true" requiredMessage="Califique la calidad de data por favor"/>\n            </View>\n\n            <!-- Object tag for time series data source -->\n            <TimeSeries name="ts" valueType="url"  value="$timeseriesUrl" sep="," timeColumn="fecha_hora" timeFormat="%Y-%m-%d %H:%M:%S" timeDisplayFormat="%Y-%m-%d %H:%M:%S" overviewChannels="carga_gancho">\n                <Channel column="profundidad_sarta" units="ft" displayFormat="10000,.3f" strokeColor="blue" legend="Profundidad"/>\n                <Channel column="carga_gancho" units="lb" displayFormat="10000,.3f" strokeColor="green" legend="Carga Gancho"/>\n                <Channel column="bloque_pos" units="ft" displayFormat=",.2f" strokeColor="red" legend="Posición Bloque"/>\n                <Channel column="llave_hid_torque_max" units="lbft" displayFormat="10000,.3f" strokeColor="green" legend="TQ Hidraulica"/>\n                <Channel column="llave_pot_torque_max" units="lbft" displayFormat="10000,.2f" strokeColor="orange" legend="TQ potencia"/>\n\n            </TimeSeries>\n        \n            <View>\n        <Header value="Ensamblaje:"/>\n            <Choices allowNested="false" name="assembly" choice="single" toName="ts" perRegion="true" required="true" requiredMessage="Debe selecionar un tipo de ensamble">\n            <Choice value="ESP"/>\n            <Choice value="BHA"/>\n            <Choice value="MP"/>\n            <Choice value="GI"/>\n            <Choice value="BCP"/>\n            <Choice value="HP"/>\n        </Choices>\n            \n            <View visibleWhen="choice-selected" whenTagName="assembly"  >\n            <Header value="# :" />\n                <Number name="assembly_number" toName="ts" min="0" max="100" perRegion="true"/>\n        </View> \n            \n                <View >\n            <Header value="Objetivo:" />\n                <TextArea name="objetivo" toName="ts"  perRegion="true" required="true" requiredMessage="Describe el objetivo u herramienta en punta"></TextArea>\n        </View>\n        \n                <View>\n            <Header value="Seleccione tubería:"/>\n            <Filter name="filter" toName="tuberia" hotkey="shift+f" minlength="3" placeholder="Filter"  />\n            <Labels name="tuberia" toName="ts" showInline="true" choice="single" >\n            <Label value="TUBING 2 3/8 6,4 J-55 EUE" />\n            <Label value="TUBING 2 3/8 4,7 N-80 EUE"/>\n            <Label value="TUBING 2 7/8 6,4 J-55 EUE"/>\n            <Label value="TUBING 2 7/8 6,5 L-80 EUE"/>\n            <Label value="TUBING 2 7/8 6,5 N-80 EUE"/>\n            <Label value="TUBING 3 1/2 9,3 J-55 EUE"/>\n            <Label value="TUBING 3 1/2 9,3 SD70CS SEC"/>\n            <Label value="TUBING 3 1/2 9,3 N-80 EUE"/>\n            <Label value="TUBING 4 1/2 12,75 N-80 EUE"/>\n            <Label value="TUBING 4 1/2 12,75 SD70CS SEC"/>\n            <Label value="TUBING 5 1/2 15,5 J-55 LTC"/>\n            <Label value="TUBING 5 1/2 17 SD70CS SEC"/>\n            <Label value="TUBING 4 1/2 11,6 N-80 WEDGE 513"/>\n            <Label value="TUBING 5 1/2 23 N-80 EUE"/>\n            <Label value="DRILL PIPE 2 7/8 HTPAC 11,08"/>\n            <Label value="DRILL PIPE 3 1/2 13, S135 NC38"/>\n            <Label value="DRILL PIPE 3 1/2 13, G105 NC38"/>\n            <Label value="DRILL PIPE 3 1/2 HT38 13,3 WTFD"/>\n            <Label value="DRILL PIPE 3 1/2 HT38 13,3 STD"/>     \n        \n            </Labels>\n        \n            </View>  \n            \n        </View>\n        \n        <View>\n        <Header value="Tipo de llave:"/>\n            <Choices name="wrench" toName="ts" perRegion="true" required="true" requiredMessage="Selecione el tipo de llave">\n            <Choice value="LLave Hidráulica"/>\n            <Choice value="LLave de Potencia"/>\n            <Choice value="LLave de tercero"/>\n            <Choice value="LLave desconectada"/>\n            </Choices>\n            \n        </View>\n        \n            \n        \n        <View >\n            <Header value="Comentario:" />\n                <TextArea name="comments" toName="ts"  perRegion="true"></TextArea>\n        </View>\n            \n        </View>', 'parsed_label_config': {'viaje': {'type': 'TimeSeriesLabels', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': ['POOH', 'RIH', 'REP RIH', 'REP POOH', 'MILLING', 'WO STRING', 'DH OPS', 'SURF OPS'
+                ], 'to_name': ['ts'
+                ], 'labels_attrs': {'RIH': {'value': 'RIH', 'background': 'red'
+                    }, 'POOH': {'value': 'POOH', 'background': 'blue'
+                    }, 'DH OPS': {'value': 'DH OPS', 'background': 'brown'
+                    }, 'MILLING': {'value': 'MILLING', 'background': 'orange'
+                    }, 'REP RIH': {'value': 'REP RIH', 'background': 'gray'
+                    }, 'REP POOH': {'value': 'REP POOH', 'background': 'green'
+                    }, 'SURF OPS': {'value': 'SURF OPS', 'background': 'black'
+                    }, 'WO STRING': {'value': 'WO STRING', 'background': 'pink'
+                    }
+                }
+            }, 'rating': {'type': 'Rating', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': [], 'to_name': ['ts'
+                ], 'labels_attrs': {}
+            }, 'wrench': {'type': 'Choices', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': ['LLave Hidráulica', 'LLave de Potencia', 'LLave de tercero', 'LLave desconectada'
+                ], 'to_name': ['ts'
+                ], 'labels_attrs': {'LLave de tercero': {'value': 'LLave de tercero'
+                    }, 'LLave Hidráulica': {'value': 'LLave Hidráulica'
+                    }, 'LLave de Potencia': {'value': 'LLave de Potencia'
+                    }, 'LLave desconectada': {'value': 'LLave desconectada'
+                    }
+                }
+            }, 'tuberia': {'type': 'Labels', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': ['TUBING 2 3/8 6,
+                    4 J-55 EUE', 'TUBING 2 3/8 4,
+                    7 N-80 EUE', 'TUBING 2 7/8 6,
+                    4 J-55 EUE', 'TUBING 2 7/8 6,
+                    5 L-80 EUE', 'TUBING 2 7/8 6,
+                    5 N-80 EUE', 'TUBING 3 1/2 9,
+                    3 J-55 EUE', 'TUBING 3 1/2 9,
+                    3 SD70CS SEC', 'TUBING 3 1/2 9,
+                    3 N-80 EUE', 'TUBING 4 1/2 12,
+                    75 N-80 EUE', 'TUBING 4 1/2 12,
+                    75 SD70CS SEC', 'TUBING 5 1/2 15,
+                    5 J-55 LTC', 'TUBING 5 1/2 17 SD70CS SEC', 'TUBING 4 1/2 11,
+                    6 N-80 WEDGE 513', 'TUBING 5 1/2 23 N-80 EUE', 'DRILL PIPE 2 7/8 HTPAC 11,
+                    08', 'DRILL PIPE 3 1/2 13, S135 NC38', 'DRILL PIPE 3 1/2 13, G105 NC38', 'DRILL PIPE 3 1/2 HT38 13,
+                    3 WTFD', 'DRILL PIPE 3 1/2 HT38 13,
+                    3 STD'
+                ], 'to_name': ['ts'
+                ], 'labels_attrs': {'TUBING 5 1/2 23 N-80 EUE': {'value': 'TUBING 5 1/2 23 N-80 EUE'
+                    }, 'TUBING 2 3/8 4,
+                    7 N-80 EUE': {'value': 'TUBING 2 3/8 4,                      7 N-80 EUE'
+                    }, 'TUBING 2 3/8 6,
+                    4 J-55 EUE': {'value': 'TUBING 2 3/8 6,
+                        4 J-55 EUE'
+                    }, 'TUBING 2 7/8 6,
+                    4 J-55 EUE': {'value': 'TUBING 2 7/8 6,
+                        4 J-55 EUE'
+                    }, 'TUBING 2 7/8 6,
+                    5 L-80 EUE': {'value': 'TUBING 2 7/8 6,
+                        5 L-80 EUE'
+                    }, 'TUBING 2 7/8 6,
+                    5 N-80 EUE': {'value': 'TUBING 2 7/8 6,
+                        5 N-80 EUE'
+                    }, 'TUBING 3 1/2 9,
+                    3 J-55 EUE': {'value': 'TUBING 3 1/2 9,
+                        3 J-55 EUE'
+                    }, 'TUBING 3 1/2 9,
+                    3 N-80 EUE': {'value': 'TUBING 3 1/2 9,
+                        3 N-80 EUE'
+                    }, 'TUBING 5 1/2 15,
+                    5 J-55 LTC': {'value': 'TUBING 5 1/2 15,
+                        5 J-55 LTC'
+                    }, 'TUBING 5 1/2 17 SD70CS SEC': {'value': 'TUBING 5 1/2 17 SD70CS SEC'
+                    }, 'TUBING 3 1/2 9,
+                    3 SD70CS SEC': {'value': 'TUBING 3 1/2 9,
+                        3 SD70CS SEC'
+                    }, 'TUBING 4 1/2 12,
+                    75 N-80 EUE': {'value': 'TUBING 4 1/2 12,
+                        75 N-80 EUE'
+                    }, 'DRILL PIPE 2 7/8 HTPAC 11,
+                    08': {'value': 'DRILL PIPE 2 7/8 HTPAC 11,
+                        08'
+                    }, 'TUBING 4 1/2 12,
+                    75 SD70CS SEC': {'value': 'TUBING 4 1/2 12,
+                        75 SD70CS SEC'
+                    }, 'DRILL PIPE 3 1/2 13, G105 NC38': {'value': 'DRILL PIPE 3 1/2 13, G105 NC38'
+                    }, 'DRILL PIPE 3 1/2 13, S135 NC38': {'value': 'DRILL PIPE 3 1/2 13, S135 NC38'
+                    }, 'DRILL PIPE 3 1/2 HT38 13,
+                    3 STD': {'value': 'DRILL PIPE 3 1/2 HT38 13,
+                        3 STD'
+                    }, 'DRILL PIPE 3 1/2 HT38 13,
+                    3 WTFD': {'value': 'DRILL PIPE 3 1/2 HT38 13,
+                        3 WTFD'
+                    }, 'TUBING 4 1/2 11,
+                    6 N-80 WEDGE 513': {'value': 'TUBING 4 1/2 11,
+                        6 N-80 WEDGE 513'
+                    }
+                }
+            }, 'assembly': {'type': 'Choices', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': ['ESP', 'BHA', 'MP', 'GI', 'BCP', 'HP'
+                ], 'to_name': ['ts'
+                ], 'labels_attrs': {'GI': {'value': 'GI'
+                    }, 'HP': {'value': 'HP'
+                    }, 'MP': {'value': 'MP'
+                    }, 'BCP': {'value': 'BCP'
+                    }, 'BHA': {'value': 'BHA'
+                    }, 'ESP': {'value': 'ESP'
+                    }
+                }
+            }, 'comments': {'type': 'TextArea', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': [], 'to_name': ['ts'
+                ], 'labels_attrs': {}
+            }, 'objetivo': {'type': 'TextArea', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': [], 'to_name': ['ts'
+                ], 'labels_attrs': {}
+            }, 'assembly_number': {'type': 'Number', 'inputs': [
+                    {'type': 'TimeSeries', 'value': 'timeseriesUrl', 'valueType': 'url'
+                    }
+                ], 'labels': [], 'to_name': ['ts'
+                ], 'labels_attrs': {}
+            }
+        }, 'label_config_hash': 8942988835014793499, 'expert_instruction': '\n            1. Selecione la atiqueta que debe usar \n            
+2.  Vaya al grafico en el eje que le resulte mas comodod y\n            Selecione el origen y luego con el clic sostenido suelte hasta el punto donde termina el viaje\n            3.  Selecione el otra etiquetas que hagan parte del mismo viaje\n            4. Diligencia los comentarios que serán usado como metadata del viaje\n            5. Clik en el boton de submit o update para guardar la anotación \n            ', 'show_instruction': False, 'show_skip_button': True, 'enable_empty_annotation': True, 'reveal_preannotations_interactively': False, 'show_annotation_history': False, 'show_collab_predictions': True, 'evaluate_predictions_automatically': False, 'token': 'u41dPV8PSii7njIjwKqWFxXH6l4TH03xD28Z4Pk5', 'result_count': 0, 'color': '#FFFFFF', 'maximum_annotations': 1, 'min_annotations_to_start_training': 0, 'control_weights': {'viaje': {'type': 'TimeSeriesLabels', 'labels': {'RIH': 1.0, 'POOH': 1.0, 'DH OPS': 1.0, 'MILLING': 1.0, 'REP RIH': 1.0, 'REP POOH': 1.0, 'SURF OPS': 1.0, 'WO STRING': 1.0
+                }, 'overall': 1.0
+            }, 'rating': {'type': 'Rating', 'labels': {}, 'overall': 1.0
+            }, 'wrench': {'type': 'Choices', 'labels': {'LLave de tercero': 1.0, 'LLave Hidráulica': 1.0, 'LLave de Potencia': 1.0, 'LLave desconectada': 1.0
+                }, 'overall': 1.0
+            }, 'tuberia': {'type': 'Labels', 'labels': {'TUBING 5 1/2 23 N-80 EUE': 1.0, 'TUBING 2 3/8 4,
+                    7 N-80 EUE': 1.0, 'TUBING 2 3/8 6,
+                    4 J-55 EUE': 1.0, 'TUBING 2 7/8 6,
+                    4 J-55 EUE': 1.0, 'TUBING 2 7/8 6,
+                    5 L-80 EUE': 1.0, 'TUBING 2 7/8 6,
+                    5 N-80 EUE': 1.0, 'TUBING 3 1/2 9,
+                    3 J-55 EUE': 1.0, 'TUBING 3 1/2 9,
+                    3 N-80 EUE': 1.0, 'TUBING 5 1/2 15,
+                    5 J-55 LTC': 1.0, 'TUBING 5 1/2 17 SD70CS SEC': 1.0, 'TUBING 3 1/2 9,
+                    3 SD70CS SEC': 1.0, 'TUBING 4 1/2 12,
+                    75 N-80 EUE': 1.0, 'DRILL PIPE 2 7/8 HTPAC 11,
+                    08': 1.0, 'TUBING 4 1/2 12,
+                    75 SD70CS SEC': 1.0, 'DRILL PIPE 3 1/2 13, G105 NC38': 1.0, 'DRILL PIPE 3 1/2 13, S135 NC38': 1.0, 'DRILL PIPE 3 1/2 HT38 13,
+                    3 STD': 1.0, 'DRILL PIPE 3 1/2 HT38 13,
+                    3 WTFD': 1.0, 'TUBING 4 1/2 11,
+                    6 N-80 WEDGE 513': 1.0
+                }, 'overall': 1.0
+            }, 'assembly': {'type': 'Choices', 'labels': {'GI': 1.0, 'HP': 1.0, 'MP': 1.0, 'BCP': 1.0, 'BHA': 1.0, 'ESP': 1.0
+                }, 'overall': 1.0
+            }, 'comments': {'type': 'TextArea', 'labels': {}, 'overall': 1.0
+            }, 'objetivo': {'type': 'TextArea', 'labels': {}, 'overall': 1.0
+            }, 'assembly_number': {'type': 'Number', 'labels': {}, 'overall': 1.0
+            }
+        }, 'model_version': '', 'data_types': {'timeseriesUrl': 'TimeSeries'
+        }, 'is_draft': False, 'is_published': False, 'created_at': '2024-05-31T18: 28: 21.283105Z', 'updated_at': '2024-07-23T18: 53: 15.808565Z', 'sampling': 'Sequential sampling', 'skip_queue': 'REQUEUE_FOR_OTHERS', 'show_ground_truth_first': False, 'show_overlap_first': False, 'overlap_cohort_percentage': 100, 'task_data_login': None, 'task_data_password': None, 'pinned_at': None, 'organization': 1, 'created_by': 1
+    }, 
+    
+    
+    'task': {'id': 65, 'data': {'timeseriesUrl': 'azure-blob: //labeling-data/source-labeling/operator=FRONTERA/deviceId=IndependenceRig36/426_ARDILLA-2_2024-06-08.csv'}, 'meta': {}, 'created_at': '2024-07-23T00:09:51.548639Z', 'updated_at': '2024-07-23T18:54:29.369918Z', 'is_labeled': True, 'overlap': 1, 'inner_id': 2, 'total_annotations': 1, 'cancelled_annotations': 0, 'total_predictions': 0, 'comment_count': 0, 'unresolved_comment_count': 0, 'last_comment_updated_at': None, 'project': 23, 'updated_by': 1, 'file_upload': None, 'comment_authors': []}
+    }    
+            {'id': 65, 'data': {'timeseriesUrl': 'azure-blob: //labeling-data/source-labeling/operator=FRONTERA/deviceId=IndependenceRig36/426_ARDILLA-2_2024-06-08.csv'}, 'meta': {}, 'created_at': '2024-07-23T00:09:51.548639Z', 'updated_at': '2024-07-23T18:54:29.369918Z', 'is_labeled': True, 'overlap': 1, 'inner_id': 2, 'total_annotations': 1, 'cancelled_annotations': 0, 'total_predictions': 0, 'comment_count': 0, 'unresolved_comment_count': 0, 'last_comment_updated_at': None, 'project': 23, 'updated_by': 1, 'file_upload': None, 'comment_authors': []}

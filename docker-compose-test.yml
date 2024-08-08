@@ -1,0 +1,22 @@
+version: "3.9"  # Puedes ajustar la versión según tus necesidades
+
+services:
+  label-studio:
+    image: heartexlabs/label-studio:latest
+    ports:
+      - "8080:8080"  # Mapea el puerto 8080 del contenedor al puerto 8080 del host
+
+    environment:
+      - DJANGO_DB=default
+      - POSTGRE_NAME=postgres
+      - POSTGRE_USER=postgres
+      - POSTGRE_PASSWORD=p0stgr3s_4lf4
+      - POSTGRE_PORT=5432
+      - POSTGRE_HOST=20.57.112.219
+      - LABEL_STUDIO_DISABLE_SIGNUP_WITHOUT_LINK=false
+      - LABEL_STUDIO_ALLOW_ORGANIZATION_WEBHOOKS=true
+      - WEBHOOK_TIMEOUT=2
+   
+    stdin_open: true  # Similar a `-it`, mantiene el contenedor abierto para entrada estándar
+    tty: true  # Similar a `-it`, asigna un pseudo-TTY
+  
